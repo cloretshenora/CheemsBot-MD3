@@ -29,7 +29,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //documents variants
@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['212607468346'] //ur owner number
+global.ownername = "CLORETS"
+global.ytname = "YT: CLORETS FF" //ur yt chanel name
+global.socialm = "GitHub: github.com/cloretshenora" //ur github or insta name
+global.location = "Russia, Moscow " //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.botname = "CLORETS-BOT" //ur bot name
+global.websitex = "https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.youtube.com/watch%3Fv%3DLLFhKaqnWwk&ved=2ahUKEwjCv-H88M34AhVQ_rsIHdNCBt8QwqsBegQIUhAE&usg=AOvVaw1v03H9RyzYl4IX9MyrW97e" //ur website
+global.vidmenu = { url: 'https://a.uguu.se/dbDHffSk.mp4' } //gif and video menu
+global.packname = "CLORETS-BOT STICKERS\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄CLORETS-BOT"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.reactmoji = "🖕"
+global.ownertag = ['212607468346'] //ur owner tag
+global.ownernummenu = ['212607468346'] //ur owner number in menu and all
+global.watermark = "Clorets Bot Inc." //ur watermark
+global.botscript = "https://github.com/cloretshenora/CheemsBot-MD3"
+global.linkz1 = "https://chat.whatsapp.com/GCg73QcyLej71mLiIg6hTO"
+global.linkz2 = "https://chat.whatsapp.com/GCg73QcyLej71mLiIg6hTO"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
